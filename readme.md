@@ -11,6 +11,7 @@ Este repositório foi criado para praticar:
 - Controle de versão com Git
 - Hospedagem de código no GitHub
 - Escrita de documentação em Markdown
+- Como trabalhar remotamente
 
 ---
 
@@ -23,6 +24,8 @@ Este repositório foi criado para praticar:
 ---
 
 ## 📂 Estrutura do projeto
+
+- Testando Git Pull
 
 ```bash
 .

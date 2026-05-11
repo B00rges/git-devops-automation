@@ -12,6 +12,9 @@ Este repositório foi criado para praticar:
 - Hospedagem de código no GitHub
 - Escrita de documentação em Markdown
 - Como trabalhar remotamente
+  Como trabalhar remotamente
+- Como trabalhar remotamente
+
 
 ---
 
